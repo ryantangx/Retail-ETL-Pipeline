@@ -149,3 +149,5 @@ if __name__ == "__main__":
   validation("clean_data.csv")
   validation("agg_data.csv")
 ```
+---
+*© 2026 Ryan Tang.*
